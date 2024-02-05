@@ -1,0 +1,21 @@
+
+a {
+    text-decoration: none;
+    color: brown;
+}
+
+main {
+    height: 77vh;
+}
+
+footer {
+    text-align: center;
+}
+
+.card.text-center {
+    height: auto;
+}
+
+.card-text {
+    font-size: 3rem;
+}
